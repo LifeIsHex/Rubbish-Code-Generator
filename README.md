@@ -13,7 +13,7 @@ The Rubbish Code Generator is a tool designed for creating .inc files that conta
 
 ![screen_shot_2](/sample/result.png)
 
-![screen_shot_3](/sample/Rubbish_Code Generator_0.1_1.png)
+![screen_shot_3](/sample/Rubbish_Code_Generator_0.1_1.png)
 
 ![screen_shot_4](/sample/Rubbish_Code_Generator_0.1_2.png)
 
